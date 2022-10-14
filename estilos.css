@@ -38,7 +38,7 @@
     color:#DAA520;
 }
 
-.sing_up_button{
+.sing_up_button {
     padding: 9px 36px;
     border: 1px solid #3E3F43;
     border-radius: 8px;
@@ -50,4 +50,44 @@
     margin-left: 24px;
     height: 20px;
     display: block;
+}
+
+#textouno {
+    font-family: "nunito";
+    font-style:normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    color:#3e3f43;
+
+    position: absolute;
+    width: 504px;
+    height: 98px;
+    left: 102px;
+    top: 217px;
+
+}
+
+#textodos {
+    font-family: "nunito";
+    font-style:normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    color:#3e3f43;
+
+    position: absolute;
+    width: 504px;
+    height: 196px;
+    left: 102px;
+    top: 331px; 
+
+}
+
+#mesa {
+    position: absolute;
+    width: 568px;
+    height: 577px;
+    left: 700px;
+    top: 165px;
 }
